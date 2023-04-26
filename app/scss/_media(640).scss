@@ -1,0 +1,507 @@
+@media(max-width: 640px) and (min-wdth: 321px) {
+    .container {
+        max-width: 100.0vw;
+        padding: 0 4.69vw;
+    }
+
+    .text-block {
+        gap: 6.25vw;
+    }
+
+    .text-box {
+        border-radius: 7.81vw;
+        padding: 6.25vw 9.38vw;
+    }
+
+    .text {
+        font: normal 400 5.0vw/140% "Noto Sans", sans-serif;
+    }
+
+    h2 {
+        font: normal 700 6.25vw/120% "Montserrat", sans-serif;
+    }
+
+    h3 {
+        font: normal 700 5.0vw/140% "Montserrat", sans-serif;
+    }
+
+    h4 {
+        font: normal 700 5.62vw/140% "Noto Sans", sans-serif;
+    }
+
+    .btn {
+        font: normal 700 5.62vw/140% "Noto Sans", sans-serif;
+        width: 84.69vw;
+        padding: 6.56vw 21.88vw 5.62vw 21.88vw;
+        border-width: 0.62vw;
+        border-radius: 31.25vw;
+    }
+
+    .blue-cam:before {
+        left: -1.56vw;
+        top: -10.94vw;
+        width: 12.5vw;
+        height: 9.06vw;
+    }
+
+    .orange-arrow:before {
+        left: 6.25vw;
+        top: 9.38vw;
+        width: 5.31vw;
+        height: 10.62vw;
+    }
+
+    .orange-cam:before {
+        width: 11.25vw;
+        height: 8.44vw;
+        top: -9.38vw;
+    }
+
+    .orange-curve-arrow:before {
+        left: 9.38vw;
+        top: 12.5vw;
+        width: 10.31vw;
+        height: 17.81vw;
+    }
+
+    .white-arrow:before {
+        left: 3.12vw;
+        top: 21.88vw;
+        width: 5.31vw;
+        height: 10.62vw;
+    }
+
+    .little-lavander-arrow:after {
+        left: -3.12vw;
+        top: 9.38vw;
+        width: 5.31vw;
+        height: 10.62vw;
+    }
+
+    .header__logo {
+        width: 42.19vw;
+        height: 10.62vw;
+    }
+
+    .offer {
+        margin-bottom: 18.75vw;
+    }
+
+    .offer__title {
+        padding-top: 18.75vw;
+    }
+
+    .offer__description {
+        margin-top: 7.81vw;
+    }
+
+    .offer__call {
+        margin: 7.81vw 0 0;
+    }
+
+    .offer__mockup {
+        padding-left: 3.12vw;
+    }
+
+    .offer__btn {
+        margin-top: 7.81vw;
+        margin-bottom: 5.31vw;
+    }
+
+    .offer__sub {
+        width: 59.38vw;
+        font: normal 400 5.0vw/140% "Noto Sans", sans-serif;
+    }
+
+    .offer__sub:before {
+        width: 7.81vw;
+        height: 15.62vw;
+        left: -10.94vw;
+        top: -6.25vw;
+    }
+
+    .video {
+        height: 86.25vw;
+    }
+
+    .conditions__title {
+        margin-bottom: 12.5vw;
+    }
+
+    .conditions__sub {
+        font: normal 700 5.62vw/140% "Noto Sans", sans-serif;
+        margin-bottom: 6.25vw;
+    }
+
+    .conditions__list {
+        margin-bottom: 9.38vw;
+    }
+
+    .conditions__btn {
+        margin-bottom: 23.75vw;
+    }
+
+    .condition {
+        padding: 6.25vw 4.69vw;
+    }
+
+    .condition__title {
+        margin-bottom: 4.69vw;
+    }
+
+    .author {
+        margin-bottom: 12.5vw;
+    }
+
+    .author__img {
+        width: 73.44vw;
+    }
+
+    .author__btn {
+        margin-bottom: 6.25vw;
+    }
+
+    .author__name {
+        border: 1.56vw solid #29305b;
+        border-radius: 21.88vw;
+        padding: 4.69vw 0 3.75vw 0;
+        font: normal 800 4.06vw/140% "Montserrat", sans-serif;
+        margin-top: -3.12vw;
+        margin-bottom: 14.06vw;
+    }
+
+    .author__name-female:after {
+        width: 21.88vw;
+        height: 21.88vw;
+        top: 4.69vw;
+        right: -4.69vw;
+    }
+
+    .author__name-male {
+        margin-top: -6.25vw;
+    }
+
+    .author__name-male:after {
+        width: 21.88vw;
+        height: 21.88vw;
+        top: 4.69vw;
+        right: -4.69vw;
+    }
+
+    .author__specs-title {
+        padding-bottom: 6.25vw;
+    }
+
+    .author__specs-item {
+        background: url(../images/star.png) 50% 0/4.38vw 4.38vw no-repeat;
+        padding: 8.75vw 3.12vw 7.81vw 3.12vw;
+        padding-bottom: 7.81vw;
+        padding-top: 8.75vw;
+    }
+
+    .expectations__title {
+        margin-bottom: 17.81vw;
+    }
+
+    .faq__questions {
+        margin-bottom: 9.38vw;
+    }
+
+    .question {
+        padding: 9.38vw 15.62vw 3.12vw 4.69vw;
+    }
+
+    .question__title {
+        margin-bottom: 6.25vw;
+        font: normal 700 5.0vw/140% "Noto Sans", sans-serif;
+    }
+
+    .question__title:before {
+        width: 12.5vw;
+        height: 12.5vw;
+        top: 8.44vw;
+        right: 4.69vw;
+    }
+
+    .question__text {
+        margin-bottom: 6.25vw;
+    }
+
+    .conclusion__block {
+        border-radius: 7.81vw;
+    }
+
+    .conclusion__img {
+        width: 31.56vw;
+        height: 51.56vw;
+        margin-left: 6.25vw;
+        margin-top: -4.69vw;
+    }
+
+    .conclusion__title {
+        padding-top: 18.75vw;
+    }
+
+    .conclusion__text {
+        margin: 9.38vw 0;
+        padding: 0 4.38vw;
+    }
+
+    .conclusion__btn {
+        margin: 0 3.12vw;
+    }
+
+    .conclusion__btn:before {
+        width: 18.12vw;
+        height: 29.69vw;
+        top: 28.12vw;
+        right: 15.62vw;
+    }
+
+    .conclusion__btn:active {
+        border: 0.62vw solid #fff;
+    }
+
+    .conclusion__shadow {
+        top: -156.25vw;
+        left: -250.0vw;
+    }
+
+    .footer__contacts {
+        gap: 8.44vw;
+    }
+
+    .footer__home {
+        width: 42.19vw;
+        height: 10.94vw;
+        margin-bottom: 10.31vw;
+    }
+
+    .footer__social {
+        gap: 6.25vw;
+    }
+
+    .footer__social-img {
+        width: 9.69vw;
+        height: 9.69vw;
+    }
+
+    .footer__about {
+        margin: 6.25vw 0;
+    }
+
+    .footer__courses {
+        gap: 6.25vw;
+    }
+
+    .footer__policy {
+        gap: 6.25vw;
+        margin-bottom: 9.38vw;
+    }
+
+    .footer__business {
+        font: normal 400 4.06vw/140% "Noto Sans", sans-serif;
+    }
+
+    .photo-offer__subtitle {
+        margin: 9.38vw 0;
+    }
+
+    .photo-offer__btn {
+        margin-bottom: 4.69vw;
+    }
+
+    .photo-offer__description {
+        gap: 4.69vw;
+    }
+
+    .photo-conditions__sub {
+        margin: 9.38vw 3.12vw 18.75vw;
+    }
+
+    .photo-condition {
+        padding: 7.81vw 10.62vw 7.81vw 4.69vw;
+    }
+
+    .photo-condition__img {
+        width: 13.12vw;
+        height: 12.5vw;
+    }
+
+    .photo-condition__title {
+        padding: 0 0 0 4.69vw;
+    }
+
+    .skills {
+        padding-bottom: 18.75vw;
+    }
+
+    .skills__list {
+        gap: 4.69vw;
+    }
+
+    .skills__title {
+        margin: 18.75vw auto 14.06vw;
+        width: 78.12vw;
+    }
+
+    .portfolio-photo {
+        padding-top: 37.5vw;
+        padding-bottom: 18.75vw;
+    }
+
+    .portfolio-photo__title {
+        font: normal 700 5.62vw/120% "Montserrat", sans-serif;
+        padding: 0 1.56vw;
+        margin-bottom: 12.5vw;
+    }
+
+    .portfolio-photo__sub {
+        font: normal 700 5.0vw/140% "Montserrat", sans-serif;
+        margin: 27.5vw 1.56vw 9.38vw 1.56vw;
+    }
+
+    .portfolio-photo__slide img {
+        border-radius: 6.25vw;
+    }
+
+    .curriculum {
+        padding-top: 31.25vw;
+        padding-bottom: 18.75vw;
+    }
+
+    .curriculum__title {
+        margin-bottom: 15.62vw;
+    }
+
+    .module__info {
+        margin: 7.81vw 25.0vw 7.81vw 7.81vw;
+    }
+
+    .module__title {
+        margin-bottom: 7.81vw;
+    }
+
+    .module__title:before {
+        top: -1.56vw;
+        right: -18.75vw;
+        width: 12.5vw;
+        height: 12.5vw;
+    }
+
+    .module__lessons {
+        margin: 0 7.81vw 7.81vw 7.81vw;
+    }
+
+    .portfolio {
+        margin-bottom: 31.25vw;
+    }
+
+    .result__list-item {
+        background: url(../images/star.png) 0 0/4.38vw 4.38vw no-repeat;
+        padding: 0 0 4.69vw 6.88vw;
+    }
+
+    .result__title {
+        margin-bottom: 7.81vw;
+    }
+
+    .result__specs-item {
+        background-size: 4.38vw;
+        padding: 8.75vw 3.12vw 7.81vw 3.12vw;
+        padding-bottom: 7.81vw;
+        padding-top: 8.75vw;
+    }
+
+    .rate {
+        margin-bottom: 18.75vw;
+    }
+
+    .rate__title {
+        margin-bottom: 11.88vw;
+    }
+
+    .plan__description {
+        margin: 10.94vw 6.25vw 7.81vw 7.81vw;
+    }
+
+    .plan__description-title {
+        margin-bottom: -1.56vw;
+        font: normal 700 6.88vw/140% "Montserrat", sans-serif;
+    }
+
+    .plan__components {
+        margin-top: 9.38vw;
+    }
+
+    .plan__components li {
+        background: url(../images/star.png) 0 0.0vw/4.38vw 4.38vw no-repeat;
+        padding-left: 6.88vw;
+        margin-bottom: 4.69vw;
+    }
+
+    .plan__skill {
+        margin-bottom: 4.69vw;
+    }
+
+    .plan__skill-title:last-of-type {
+        padding-left: 6.88vw;
+    }
+
+    .plan__price {
+        margin-bottom: 7.81vw;
+        font: normal 700 6.88vw/140% "Montserrat", sans-serif;
+    }
+
+    .plan__payment {
+        margin-bottom: 3.12vw;
+    }
+
+    .plan__btn {
+        margin: 0 2.81vw 2.81vw 4.69vw;
+    }
+
+    .experience__block {
+        margin-bottom: 25.0vw;
+    }
+
+    .experience__title {
+        margin-bottom: 12.5vw;
+    }
+
+    .experience__list li {
+        background: url(../images/star.png) 0 0.0vw/4.38vw 4.38vw no-repeat;
+        padding-left: 6.88vw;
+        margin-bottom: 4.69vw;
+    }
+
+    .video-offer__subtitle {
+        margin: 9.38vw 0;
+    }
+
+    .video-offer__btn {
+        margin-bottom: 4.69vw;
+    }
+
+    .video-offer__description {
+        gap: 4.69vw;
+    }
+
+    .work-tool {
+        margin-top: 18.75vw;
+    }
+
+    .work-tool__title {
+        font: normal 700 6.88vw/120% "Montserrat", sans-serif;
+        margin-bottom: 9.38vw;
+    }
+
+    .work-tool__highlight {
+        padding: 2.19vw;
+        margin-bottom: 18.75vw;
+    }
+
+    .slick-dots {
+        padding-right: 17.19vw;
+    }
+}
